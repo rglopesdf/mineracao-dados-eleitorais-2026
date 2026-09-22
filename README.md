@@ -64,6 +64,7 @@ Cada notebook tem um badge **Open in Colab** na primeira célula — é só clic
 - [`02_clusterizacao.ipynb`](https://colab.research.google.com/github/rglopesdf/mineracao-dados-eleitorais-2026/blob/main/02_clusterizacao.ipynb)
 - [`02_clusterizacao_outros.ipynb`](https://colab.research.google.com/github/rglopesdf/mineracao-dados-eleitorais-2026/blob/main/02_clusterizacao_outros.ipynb)
 - [`03_regras_associacao.ipynb`](https://colab.research.google.com/github/rglopesdf/mineracao-dados-eleitorais-2026/blob/main/03_regras_associacao.ipynb)
+- [`04_deteccao_anomalias.ipynb`](https://colab.research.google.com/github/rglopesdf/mineracao-dados-eleitorais-2026/blob/main/04_deteccao_anomalias.ipynb)
 
 > Enquanto o repositório estiver **privado**, esses links pedem login com uma conta GitHub que tenha acesso ao repo. Assim que ele virar público, funcionam pra qualquer aluno sem autenticação nenhuma.
 

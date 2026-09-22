@@ -13,6 +13,8 @@ scikit-learn>=1.4
 scipy>=1.11
 mlxtend>=0.23
 pyvis>=0.3   # grafo interativo das regras de associação (Fase 3)
+plotly>=5.18 # gráfico 3D interativo dos anômalos (Fase 4) — já vem pronto no Colab
+nbformat>=4.2 # exigido pelo plotly pra renderizar inline no Jupyter/VS Code (Colab já tem)
 
 # Só necessário para rodar localmente (Colab já tem um kernel próprio)
 ipykernel>=6.29
